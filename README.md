@@ -5,5 +5,5 @@
 Para rodar ess eprojeto na sua máquina, por favor digite:
 
 ```
-npm install react
+node app.js
 ```
